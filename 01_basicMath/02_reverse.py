@@ -10,7 +10,7 @@ def reverseNumber(number:int)->int:
         reverseNum = (reverseNum*10)+lastDigit
         number = number//10
         #For numbers out of range
-        if number>2**31 or number<-2**31:
+        if reverseNum>2**31 or reverseNum<-2**31:
             return 0
     #Making positive number negative if it was a negative number at the start
     if is_negative:

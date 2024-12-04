@@ -1,3 +1,0 @@
-The frequency of  a  occured is :  3
-The frequency of  b  occured is :  2
-The frequency of  d  occured is :  3

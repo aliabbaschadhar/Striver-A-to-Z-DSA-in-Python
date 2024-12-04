@@ -2593,3 +2593,5 @@
 .venv/lib/python3.12/site-packages/typing-3.7.4.3.dist-info/REQUESTED
 .venv/lib/python3.12/site-packages/typing-3.7.4.3.dist-info/top_level.txt
 .venv/lib/python3.12/site-packages/typing-3.7.4.3.dist-info/WHEEL
+nu.py
+.gitignore

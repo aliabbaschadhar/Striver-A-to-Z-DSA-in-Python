@@ -18,7 +18,7 @@ def main() -> None:
     # Process queries for character frequencies
     queries: int = int(input())
     while queries > 0:
-        character: char = input()
+        character: str = input().strip()
         print(
             "The frequency of ",
             character,
